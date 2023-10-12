@@ -10,7 +10,7 @@
 ## Screenshots
 
 1. Home Screen
-   ![image](./image/README/1.png)
+   ![image](/image/README/1.png)
 2. Home Screen With Suggestion Box Open
    ![image](./image/README/2.png)
 3. Products Screen
