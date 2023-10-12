@@ -24,9 +24,10 @@
 
 ## Mobile Responsiveness
 
-1. Home Screen
+1. Home Screen `<br>`
    ![image](./image/README/8_mobile.png)
-2. Suggestion Box Open![image](./image/README/9_mobile.png)
-3. Product Screen![image](./image/README/10_mobile.png)
-4. Product With Filter
+2. Suggestion Box Open`<br>`
+![image](./image/README/9_mobile.png)
+3. Product Screen `<br>`![image](./image/README/10_mobile.png)
+4. Product With Filter`<br>`
    ![image](./image/README/11_mobile.png)
