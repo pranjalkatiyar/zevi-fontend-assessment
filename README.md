@@ -5,7 +5,7 @@
 1. To start server : pnpm start
 2. To update packages: pnpm up
 
-## Deployed Site Link : 
+## Deployed Site Link : https://effervescent-speculoos-396098.netlify.app
 
 ## Screenshots
 
